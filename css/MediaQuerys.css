@@ -1,0 +1,27 @@
+@media only screen and (max-width: 720px){
+
+
+ .navbar .menu li a{
+     display: none;
+ }
+
+.menu-bar{
+    color: white;
+    grid-column: 7/9;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.shop-bar{
+    display: none;
+}
+
+
+
+/* CONTENIDO */
+
+
+
+
+}
+
